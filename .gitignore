@@ -1,0 +1,8 @@
+node_modules/
+.wrangler/
+__pycache__/
+*.py[cod]
+rec_room.db
+rec_room.db-*
+.dev.vars
+.dev.vars.*
